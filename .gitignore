@@ -20,6 +20,4 @@
 *.db
 request.token
 /log/
-/vendor/*
-!/vendor/vendor.json
 dockerfile
